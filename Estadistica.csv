@@ -1,0 +1,26 @@
+n,edad,estatura,sexo,numero de hermanos ,peso en kg,nivel de estudio 
+1,21,1.75,masculino,1,40,colegio
+2,42,1.55,femenino,2,55,universidad
+3,32,1.67,masculino,5,60,graduado
+4,30,1.56,femenino,4,70,colegio
+5,18,1.82,masculino,2,80,graduado
+6,25,1.35,femenino,1,48,colegio
+7,45,1.48,femenino,2,59,universidad
+8,52,1.77,masculino,3,71,universidad
+9,19,1.68,masculino,4,66,colegio
+10,23,1.54,femenino,1,85,graduado
+11,28,1.75,masculino,2,50,colegio
+12,18,1.55,femenino,3,56,universidad
+13,23,1.67,masculino,1,65,graduado
+14,22,1.56,femenino,1,62,colegio
+15,25,1.81,masculino,2,63,graduado
+16,33,1.65,femenino,3,53,colegio
+17,32,1.36,femenino,3,54,universidad
+18,31,1.77,masculino,3,55,universidad
+19,28,1.68,masculino,4,52,colegio
+20,27,1.54,femenino,2,59,graduado
+21,22,1.75,masculino,1,45,colegio
+22,35,1.55,femenino,2,60,universidad
+23,36,1.67,masculino,1,72,graduado
+24,31,1.56,femenino,1,49,colegio
+25,30,1.82,masculino,4,75,graduado
